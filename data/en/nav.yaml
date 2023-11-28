@@ -1,0 +1,9 @@
+items:
+- title: 'CV'
+  url: '/cv'
+- title: 'Works'
+  url: '/works'
+- title: 'Training/Coach'
+  url: '/training'
+- title: 'Upcoming Works'
+  url: '/upcoming'
