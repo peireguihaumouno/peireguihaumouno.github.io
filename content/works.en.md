@@ -10,6 +10,11 @@ disableComments = true
 
 # Works #
 
+* **2023:** *DIZformæ*
+    * Presented at SerformanceP (Brazil)
+    * Created, directed, edited, recorded and choreographed by Pèire Guihaumouno and Gabriela Segato
+    * Videoperformance
+
 * **2022:** *Angelus Novus and his Double*
     * Presented at Lift-Off Session at Pinewwod Studios (England)
     * Created, directed, edited, recorded and choreographed by Pèire Guihaumouno
