@@ -13,7 +13,7 @@ I studied several techniches of modern and contemporary dance (Graham Technique,
 
 As a performer, I had the opportunity to study with Ntando Cele, Elisa Band, Cadu Ribeiro, Elle de Bernardini, Elton Panamby, Estela Lapponi, Ierê Papá, Lucio Agra, Marcos Bulhões, and T. Angel.
 
-I began my art studies leraning electric guitar, where I had several masters, like André Christovam. 
+I began my art studies learning electric guitar, where I had several masters, like André Christovam. 
 
 Founder of the π3 company (2021-). I was part of the Impromime group (2017) directed by Fábio Lins,  and of the AANGA dance-theater group (2015-2016), directed by Miriam Dascal.
 
@@ -24,7 +24,7 @@ Below you can see a detailed description of what I have studied. I am always in 
 ## Mime/Theater
 * **Jan/2022 - :** Weekly private coporeal mime training  with Corinne Soum and Steve Wasson.
 * **2022 - :** Corporeal Mime Courses with Tania Coke.
-* **2015 - :** Courses and trainings with Mauricio Paroni ranging from 1 month, everyday, to less than one week (Theatrical prosody and diction, Shakespeare, Nelson Rodrigues etc.)
+* **2015 - 2022:** Courses and trainings with Mauricio Paroni ranging from 1 month, everyday, to less than one week (Theatrical prosody and diction, Shakespeare, Nelson Rodrigues etc.)
 * **2023:** Total Mime Online Formation 7.0 with Luis Louis (1 year)
 * **2022:** Clown Studies with Jon Davison (1 semester)
 * **2022:** Total Mime Online Formation 6.0 with Luis Louis (1 year)
@@ -43,8 +43,8 @@ Below you can see a detailed description of what I have studied. I am always in 
 * **2015:** Actors in the scenic narrative with Ulrika Malmgreen (1 month, everyday)
 
 ## Dance
-* **2018 - :** Martha Graham Technique with Daniela Stasi
-* **2022 - :** Classical Ballet with Marcela Páez (weekly, private trainning)
+* **2018 - 2024:** Martha Graham Technique with Daniela Stasi
+* **2022 - 2024:** Classical Ballet with Marcela Páez (weekly, private trainning)
 * **2021:** Ritual Dances of Jeje and Yorubá with Luiz Anastácio (1 month)
 * **2020:** Gaga Dance with the Batscheva Dance Company (a semester, twice a week)
 * **2020:** Barroc Dance and Notation of Beauchamp-Feuillet with the Cia. Passos do Barroco (2 weeks)
