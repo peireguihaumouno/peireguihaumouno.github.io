@@ -5,19 +5,19 @@ image = 'images/Pedro_Sarsina.jpeg'
 description = ''
 disableComments = true
 +++
-I am a cross/transdisciplinary artist working with mime, physical theater, dance, performance, and live art.  
+I am a cross- and transdisciplinary artist working at the intersection of mime, physical theater, dance, performance, and live art.
 
-Born in São Paulo, Brazil, I did my Bachelor, Master and Ph.D. in Physics. As an artist, I have a formation in Total Mime and Physical Theatre from the Luis Louis Studio (2016). I continued my studies in Corporeal Mime and Theater with Corine Soum and Steve Wasson, Marc Duncan, Tania Coke, Maurício Paroni, Ulrika Malmgreen and others. 
+Born in São Paulo, Brazil, I earned my Bachelor’s, Master’s, and Ph.D. in Physics, before fully embracing the performing arts. I trained in Total Mime and Physical Theatre at the Luis Louis Studio (2016) and deepened my studies in Corporeal Mime and Theater with Corine Soum, Steve Wasson, Marc Duncan, Tania Coke, Maurício Paroni, Ulrika Malmgreen, and others.
 
-I studied several techniches of modern and contemporary dance (Graham Technique, Eutonia, Body Awareness methods, Contact and Improvision, Indigenous Dances etc.) with important names like Daniela Stasi, Miriam Dascal, Fredyson Cunha, Lu Favoretto and others.
+My dance training spans modern and contemporary techniques—including Graham Technique, Eutonia, Body Awareness methods, Contact and Improvisation, and Indigenous Dances—with mentors such as Daniela Stasi, Miriam Dascal, Fredyson Cunha, and Lu Favoretto.
 
-As a performer, I had the opportunity to study with Ntando Cele, Elisa Band, Cadu Ribeiro, Elle de Bernardini, Elton Panamby, Estela Lapponi, Ierê Papá, Lucio Agra, Marcos Bulhões, and T. Angel.
+As a performer, I had the privilege to work and study with Ntando Cele, Elisa Band, Cadu Ribeiro, Elle de Bernardini, Elton Panamby, Estela Lapponi, Ierê Papá, Lucio Agra, Marcos Bulhões, and T. Angel.
 
-I began my art studies learning electric guitar, where I had several masters, like André Christovam. 
+I began my artistic journey with the electric guitar, learning from masters like André Christovam.
 
-Founder of the π3 company (2021-). I was part of the Impromime group (2017) directed by Fábio Lins,  and of the AANGA dance-theater group (2015-2016), directed by Miriam Dascal.
+I am the founder of the π3 company (2021–present). I also participated in the Impromime group (2017), directed by Fábio Lins, and the AANGA dance-theater group (2015–2016), directed by Miriam Dascal.
 
-Below you can see a detailed description of what I have studied. I am always in continue formation.
+Below you will find a detailed overview of my studies and artistic explorations. I am always evolving, committed to continuous learning and experimentation.
 
 # Formation #
 
