@@ -44,7 +44,7 @@ Below you can see a detailed description of what I have studied. I am always in 
 
 ## Dance
 * **2018 - 2024:** Martha Graham Technique with Daniela Stasi
-* **2022 - 2024:** Classical Ballet with Marcela Páez (weekly, private trainning)
+* **2022 - 2024:** Classical Ballet (weekly, private trainning)
 * **2021:** Ritual Dances of Jeje and Yorubá with Luiz Anastácio (1 month)
 * **2020:** Gaga Dance with the Batscheva Dance Company (a semester, twice a week)
 * **2020:** Barroc Dance and Notation of Beauchamp-Feuillet with the Cia. Passos do Barroco (2 weeks)
