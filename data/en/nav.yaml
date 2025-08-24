@@ -7,3 +7,5 @@ items:
   url: '/training'
 - title: 'Upcoming Works'
   url: '/upcoming'
+- title: 'Production'
+  url: '/production'
