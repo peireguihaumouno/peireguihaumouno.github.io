@@ -1,11 +1,18 @@
 +++
-title = 'first post'
+title = 'First Post'
 slug = 'post'
-image = 'images/pic02.jpg'
-date = "2012-02-06T00:00:00"
-description = 'Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.'
+image = 'images/post_peire.png'
+date = "2025-02-06T00:00:00"
+description = 'Hi everyone, welcome to my webpage! Here I’ll be sharing not only what I have created so far, but also some of my ideas and reflections on art.'
 disableComments = true
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc. Proin eget mollis felis. Donec fermentum lectus non metus elementum, dignissim ornare felis congue. In rhoncus vehicula nibh, ac imperdiet dolor tincidunt sit amet.
 
-Nullam commodo, diam nec finibus ultrices, odio enim tempus risus, quis dapibus ex ligula non erat. In sed lectus id massa fermentum euismod fringilla vel ligula. Quisque tincidunt tortor non ante scelerisque convallis ut vitae nunc. Mauris id consectetur sapien, et vulputate turpis. Nulla et diam urna. Duis varius, metus sit amet mollis gravida, felis turpis sodales nulla, id dapibus lacus est ac felis. Cras porttitor orci sit amet lorem scelerisque laoreet. Sed non mi et velit bibendum efficitur ut et mauris. Curabitur sem nisl, condimentum suscipit magna sit amet, vehicula ultricies purus. Phasellus blandit ultrices ante, eget blandit turpis fringilla et. Nam commodo volutpat semper.
+Hi everyone, welcome to my webpage! Here I’ll be sharing not only what I have created so far, but also some of my ideas and reflections on art.  
+
+I see myself as a multidisciplinary artist, moving between different forms of art, science, and media. Through this mix, I try to express emotions, my questions about the world, and imagine how it could be better.  
+
+My works are less about telling stories and more about exploring who we are and what we can become. Some of them never reached the public: improvisations and drafts that may remain unfinished. Yet even these are part of my process, because for me every creation is also an investigation.  
+
+Art, to me, is not only about presenting something finished. It is a path of self-discovery, a way to grow and to become a little better than I was yesterday.  
+
+In the next posts I’ll share more about my work and my journey. Stay tuned!  
