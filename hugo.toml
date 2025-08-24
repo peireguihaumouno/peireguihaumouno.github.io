@@ -25,10 +25,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
  
 [languages]
 [languages.en]
-  languageName = "English"
+  languageName = "EN"
 [languages.pt]
-  languageName = "Português"
+  languageName = "PT"
   title = "Massively - Versão em Português"
 [languages.fr]
-  languageName = "Français"
+  languageName = "FR"
   title = "Massively - Version Française"
