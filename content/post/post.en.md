@@ -1,5 +1,5 @@
 +++
-title = 'First Post'
+title = 'Welcome'
 slug = 'post'
 image = '../images/post_peire.jpg'
 date = "2025-02-06T00:00:00"
