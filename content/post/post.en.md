@@ -1,7 +1,7 @@
 +++
 title = 'First Post'
 slug = 'post'
-image = 'images/post_peire.jpg'
+image = '../images/post_peire.jpg'
 date = "2025-02-06T00:00:00"
 description = 'Hi everyone, welcome to my webpage! Here I’ll be sharing not only what I have created so far, but also some of my ideas and reflections on art.'
 disableComments = true
