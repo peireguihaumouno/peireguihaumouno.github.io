@@ -45,6 +45,7 @@ Below you will find a detailed overview of my studies and artistic explorations.
 ## Dance
 * **2018 - 2024:** Martha Graham Technique with Daniela Stasi
 * **2022 - 2024:** Classical Ballet (weekly, private trainning)
+* **2022:** Senegalese dances
 * **2021:** Ritual Dances of Jeje and Yorubá with Luiz Anastácio (1 month)
 * **2020:** Gaga Dance with the Batscheva Dance Company (a semester, twice a week)
 * **2020:** Barroc Dance and Notation of Beauchamp-Feuillet with the Cia. Passos do Barroco (2 weeks)
@@ -67,4 +68,13 @@ Below you will find a detailed overview of my studies and artistic explorations.
 ## Music
 * More than 15 years of electric and acostic guitar classes with André Christovam, Álvaro Gonçalves and Marco Prado.
 * Since 2021 I am doing singing classes with Mari Benassi
+
+## Ballroom Dances
+Nearly 15 years of intensive study in ballroom dances, with specialized focus on forró and tango under the guidance of renowned masters. This extensive training has deepened my understanding of partnering dynamics, musical interpretation, and the subtle art of leading and following—skills that profoundly inform my approach to physical theater and corporeal expression.
+
+**Forró:** Developed traditional and contemporary techniques, exploring the dance's roots in Brazilian folk culture and its evolution into urban social expression.
+
+**Tango:** Comprehensive training in Argentine tango, including technique, musicality, and the philosophical aspects of connection and improvisation within structure.
+
+This ballroom foundation enhances my ability to work with spatial relationships, timing, and the delicate balance between control and surrender that defines both partnered dance and theatrical collaboration.
 
