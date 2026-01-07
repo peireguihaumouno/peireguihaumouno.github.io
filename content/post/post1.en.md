@@ -1,6 +1,6 @@
 +++
 title = 'Why is art necessary at this moment?'
-slug = 'post'
+slug = 'post1'
 image = '../images/post_peire.jpg'
 date = "2026-01-07T23:08:00"
 description = 'Why is art necessary at this moment?'
