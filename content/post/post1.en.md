@@ -2,7 +2,7 @@
 title = 'Why is art necessary at this moment?'
 slug = 'post1'
 image = '../images/post_peire.jpg'
-date = "2026-01-07T20:00:00"
+date = "2026-01-06T20:00:00"
 description = 'Why is art necessary at this moment?'
 disableComments = true
 +++
