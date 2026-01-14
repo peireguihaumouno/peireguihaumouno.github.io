@@ -7,8 +7,6 @@ description = ""
 disableComments = true
 +++
 
-# MANIFESTO OF THE AUTONOMOUS BODY IN FRICTION  
-
 ### Corporeal mime and live sound as a practice of action and relation
 
 **This manifesto does not describe a method nor propose a closed pedagogical system.  
