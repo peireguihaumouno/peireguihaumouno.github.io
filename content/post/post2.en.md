@@ -1,7 +1,7 @@
 +++
 title = "Manifesto of the Autonomous Body in Friction"
 slug = "post1"
-image = "../images/post_peire_why_art.jpg"
+image = "../images/post_peire_friction.png"
 date = "2026-01-14T23:08:00"
 description = ""
 disableComments = true
