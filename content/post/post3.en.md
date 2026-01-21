@@ -118,4 +118,23 @@ Atravessada.
 Transformada.  
 Com marcas que não se deixam alinhar.
 
-Às vezes, no meio de um ensaio, sinto que não
+Às vezes, no meio de um ensaio, sinto que não sou só eu ali.  
+Há algo que atravessa. Algo que pede passagem. Algo que não cabe no nome.
+
+Eu deixo.
+
+Falar de decolonialidade aqui não é reivindicar lugar. Não é vestir identidade como forma correta. É descrever o que acontece quando paro de lutar contra o que o corpo já sabe. Quando aceito que há coisas que não se explicam, apenas se praticam. Quando permito que formas desmoronem e outras, ainda sem nome, comecem a aparecer.
+
+Talvez seja aí que aconteça.  
+Não em discurso.  
+Em fratura.  
+Em gesto que escapa.  
+Em tempo que não obedece.
+
+É na forma que isso acontece.  
+No tempo que se recusa a fechar.  
+No gesto que não se organiza para convencer.
+
+Onde algo permanece suspenso.  
+Sem resolver.  
+Sem fechar.
