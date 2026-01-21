@@ -11,6 +11,8 @@ disableComments = true
 
 Decoloniality is often understood as a field of explicit positions. A territory marked by clear discourses, named genealogies, and direct confrontations with colonial history. This dimension is fundamental. It responds to real wounds. But it does not exhaust what a decolonial practice can be within the field of art.
 
+---
+
 This text starts elsewhere.  
 From what does not begin with the idea.
 
