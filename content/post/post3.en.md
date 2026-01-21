@@ -1,18 +1,13 @@
 +++
-title = "Manifesto of the Autonomous Body in Friction"
-slug = "post2"
-image = "../images/post_peire_friction.png"
+title = "Decoloniality as form and experience"
+slug = "post3"
+image = "../images/peire_post3.png"
 date = "2026-01-14T23:08:00"
 description = ""
 disableComments = true
 +++
 
-### Corporeal mime and live sound as a practice of action and relation
+### Decoloniality as form and experience
 
-**This manifesto does not describe a method nor propose a closed pedagogical system.  
-It affirms a position, an ethics of the body, and a mode of relation that manifests itself through practice.**
+Decoloniality is often understood as a field of explicit positions. A territory marked by clear discourses, named genealogies, and direct confrontations with colonial history. This dimension is fundamental. It responds to real wounds. But it does not exhaust what a decolonial practice can be within the field of art.
 
----
-
-## 1. The irreducible basis  
-### Corporeal mime as a technique of action
