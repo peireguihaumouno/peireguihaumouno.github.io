@@ -74,7 +74,7 @@ Where something remains suspended.
 Without resolving.  
 Without closing.
 
-<!--more-->
+---
 
 ## Decolonialidade como forma e experiência
 
