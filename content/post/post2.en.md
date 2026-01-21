@@ -1,6 +1,6 @@
 +++
 title = "Manifesto of the Autonomous Body in Friction"
-slug = "post1"
+slug = "post2"
 image = "../images/post_peire_friction.png"
 date = "2026-01-14T23:08:00"
 description = ""
