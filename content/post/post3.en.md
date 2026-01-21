@@ -2,7 +2,7 @@
 title = "Decoloniality as form and experience"
 slug = "post3"
 image = "../images/peire_post3.png"
-date = "2026-01-14T23:08:00"
+date = "2026-01-20T20:00:00"
 description = ""
 disableComments = true
 +++
