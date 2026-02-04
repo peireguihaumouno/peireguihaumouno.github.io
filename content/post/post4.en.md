@@ -1,7 +1,7 @@
 +++
 title = "Manifesto of the Sponge Theatre"
 slug = "post4"
-image = "../images/peire_post3.png"
+image = "../images/peire_post4.png"
 date = "2026-02-01T20:00:00"
 description = ""
 disableComments = true
