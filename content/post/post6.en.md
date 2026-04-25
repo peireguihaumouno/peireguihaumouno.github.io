@@ -111,6 +111,7 @@ If this happens before the end, it was not the spectator who left.
 
 It was the work that ended.
 
+---
 # Manifesto da Duração Viva
 
 A peça não começa no palco. Ela começa no corpo de quem assiste.
