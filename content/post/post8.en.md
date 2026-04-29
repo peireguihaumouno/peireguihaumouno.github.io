@@ -2,7 +2,7 @@
 title = "Manifesto of Love as Embodied Practice"
 slug = "post8"
 image = "../images/peire_post8.png"
-date = "2026-04-29T20:00:00"
+date = "2026-04-28T20:00:00"
 description = ""
 disableComments = true
 +++
