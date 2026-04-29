@@ -27,7 +27,7 @@ It does not guarantee.
 
 Love cannot be defined by what arises, but by what is built.
 
-As [bell hooks](chatgpt://generic-entity?number=0) insists, to love is not a state. It is a practice.
+As bell hooks insists, to love is not a state. It is a practice.
 
 Love becomes recognizable when it takes the form of:
 
@@ -367,7 +367,7 @@ Não garante.
 
 O amor não pode ser definido pelo que surge, mas pelo que se constrói.
 
-Como insiste [bell hooks](chatgpt://generic-entity?number=1), amar não é um estado. É uma prática.
+Como insiste bell hooks, amar não é um estado. É uma prática.
 
 O amor se reconhece quando toma forma como:
 
