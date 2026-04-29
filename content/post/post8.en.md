@@ -347,6 +347,8 @@ And it ends when this is no longer true.
 
 ---
 
+# Manifesto do Amor como Prática Encarnada
+
 ## Abertura
 
 Este texto não trata do amor apenas como relação afetiva, mas como princípio que organiza a ação, o gesto e a presença.
